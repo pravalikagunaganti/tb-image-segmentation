@@ -39,7 +39,7 @@ and detection accuracy.
 ## 🚀 How to Run
 **Step 1** — Clone the repository:
 ```bash
-git clone https://github.com/pravalikagunaganti/tb-image-denoising-segmentation
+git clone https://github.com/pravalikagunaganti/tb-image-segmentation
 ```
 **Step 2** — Install required packages:
 ```bash
@@ -64,7 +64,3 @@ tb-image-denoising-segmentation/
 [LinkedIn](https://linkedin.com/in/pravalika-gunagantiti-5a333a304) | 
 [GitHub](https://github.com/pravalikagunaganti)
 ```
-
-
-```
-Add TB image denoising segmentation README
