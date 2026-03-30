@@ -31,5 +31,8 @@ images and improve segmentation accuracy.
 
 ## 👩‍💻 Author
 Pravalika Gunaganti — ECE 2026 | Hyderabad
+
 📩 pravalikagunaganti16@gmail.com
+
 🔗 linkedin.com/in/pravalika-gunagantiti-5a333a304
+
