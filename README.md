@@ -44,12 +44,11 @@ Step 3 — Open the .m file from the cloned repository
 Step 4 — Run the script directly in MATLAB
 
 ## 📁 Project Structure
-
+```
 tb-image-segmentation/
-│
-├── main.m              # Main segmentation script
-│
-└── README.md           # Project documentation
+│── main.m
+│── README.md
+```
 
 ## 👩‍💻 Author
 Pravalika Gunaganti — ECE 2026 | Hyderabad
