@@ -1,7 +1,7 @@
 # TB Image Denoising & Segmentation 🏥
 Medical image preprocessing and segmentation pipeline for 
 TB detection using MATLAB — built as part of academic 
-research in biomedical image processing.
+research in medical image processing.
 
 ## 🔍 Overview
 Developed a MATLAB-based image processing pipeline that 
@@ -19,6 +19,7 @@ accuracy through iterative parameter refinement.
 ## 🛠️ Tech Stack
 - MATLAB
 - Image Processing Toolbox
+- Python
 
 ## 📈 Results
 - Improved segmentation accuracy through morphological operations
@@ -43,9 +44,12 @@ Step 3 — Open the .m file from the cloned repository
 Step 4 — Run the script directly in MATLAB
 
 ## 📁 Project Structure
+
 tb-image-segmentation/
-│── main.m              # Main segmentation script
-│── README.md           # Project documentation
+│
+├── main.m              # Main segmentation script
+│
+└── README.md           # Project documentation
 
 ## 👩‍💻 Author
 Pravalika Gunaganti — ECE 2026 | Hyderabad
