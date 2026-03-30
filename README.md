@@ -1,36 +1,55 @@
 # TB Image Denoising & Segmentation 🏥
-Medical image preprocessing and segmentation pipeline 
-for TB detection using MATLAB.
+Medical image preprocessing and segmentation pipeline for 
+TB detection using MATLAB — built as part of academic 
+research in biomedical image processing.
 
 ## 🔍 Overview
-Developed an image preprocessing and morphological 
-operations pipeline in MATLAB to analyse TB chest X-ray 
-images and improve segmentation accuracy.
+Developed a MATLAB-based image processing pipeline that 
+applies morphological operations and segmentation techniques 
+to analyse TB chest X-ray images — improving detection 
+accuracy through iterative parameter refinement.
 
 ## ⚡ Features
-- Image denoising and preprocessing
+- Image denoising and noise reduction
 - Morphological edge detection
-- Dilation, erosion and gradient operations  
-- Iterative parameter refinement
-- Segmentation output evaluation
+- Dilation, erosion and gradient operations
+- Iterative parameter refinement for accuracy
+- Segmentation output evaluation and testing
 
 ## 🛠️ Tech Stack
 - MATLAB
 - Image Processing Toolbox
-- Python
 
 ## 📈 Results
-- Improved segmentation quality through morphological operations
+- Improved segmentation accuracy through morphological operations
 - Enhanced TB pattern detection through iterative testing
-- Refined parameters for accurate output
+- Successfully processed and segmented chest X-ray images
+- Refined parameters for consistent and accurate output
+
+## 📊 Use Cases
+- Medical image analysis and preprocessing
+- TB detection and research support
+- Biomedical image segmentation
+- Academic research in computer-aided diagnosis
 
 ## 🚀 How to Run
-1. Open MATLAB
-2. Open the .m file from this repository
-3. Run the script in MATLAB
+Step 1 — Clone the repository:
+git clone https://github.com/pravalikagunaganti/tb-image-segmentation
+
+Step 2 — Open MATLAB on your system
+
+Step 3 — Open the .m file from the cloned repository
+
+Step 4 — Run the script directly in MATLAB
+
+## 📁 Project Structure
+tb-image-segmentation/
+│── main.m              # Main segmentation script
+│── README.md           # Project documentation
 
 ## 👩‍💻 Author
 Pravalika Gunaganti — ECE 2026 | Hyderabad
 📩 pravalikagunaganti16@gmail.com
-🔗https://www.linkedin.com/in/pravalika-gunagantiti-5a333a304
+🔗 https://www.linkedin.com/in/pravalika-gunagantiti-5a333a304 
+🔗 LinkedIn | GitHub
 
