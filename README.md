@@ -1,66 +1,35 @@
 # TB Image Denoising & Segmentation 🏥
-
-Image preprocessing and segmentation pipeline
-for TB medical image analysis using Python,
-MATLAB and U-Net architecture.
+Medical image preprocessing and segmentation pipeline 
+for TB detection using MATLAB.
 
 ## 🔍 Overview
-Implemented image preprocessing and 
-morphological edge detection pipeline 
-to improve TB image segmentation quality 
-and detection accuracy.
+Developed an image preprocessing and morphological 
+operations pipeline in MATLAB to analyse TB chest X-ray 
+images and improve segmentation accuracy.
 
 ## ⚡ Features
-- Image preprocessing pipeline
+- Image denoising and preprocessing
 - Morphological edge detection
-- Dilation, erosion & gradient operations
-- U-Net based segmentation
+- Dilation, erosion and gradient operations  
 - Iterative parameter refinement
-- Output accuracy evaluation
+- Segmentation output evaluation
 
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange)
-![UNet](https://img.shields.io/badge/U--Net-Model-red)
-
-- Python
 - MATLAB
-- U-Net Architecture
-- OpenCV
-- Image Processing
+- Image Processing Toolbox
+- Python
 
 ## 📈 Results
-- Improved segmentation quality through
-  morphological operations
-- Enhanced detection stability through
-  iterative testing
+- Improved segmentation quality through morphological operations
+- Enhanced TB pattern detection through iterative testing
 - Refined parameters for accurate output
 
 ## 🚀 How to Run
-**Step 1** — Clone the repository:
-```bash
-git clone https://github.com/pravalikagunaganti/tb-image-segmentation
-```
-**Step 2** — Install required packages:
-```bash
-pip install -r requirements.txt
-```
-**Step 3** — Run the pipeline:
-```bash
-python segmentation.py
-```
-
-## 📁 Project Structure
-```
-tb-image-denoising-segmentation/
-│── segmentation.py
-│── preprocessing.py
-│── requirements.txt
-│── README.md
-```
+1. Open MATLAB
+2. Open the .m file from this repository
+3. Run the script in MATLAB
 
 ## 👩‍💻 Author
-**Pravalika Gunaganti**
-[LinkedIn](https://linkedin.com/in/pravalika-gunagantiti-5a333a304) | 
-[GitHub](https://github.com/pravalikagunaganti)
-```
+Pravalika Gunaganti — ECE 2026 | Hyderabad
+📩 pravalikagunaganti16@gmail.com
+🔗 linkedin.com/in/pravalika-gunagantiti-5a333a304
